@@ -25,11 +25,11 @@
 
 <div align="left"> 
 <a href="https://x.com/Onidori61" target="_blank">
-<img align="center" height="45" width="45" src="https://github.com/user-attachments/assets/e16e9c71-aa36-41dd-9091-aff4e7a193f3">
+<img align="center" height="45" width="45" src="https://github.com/user-attachments/assets/a48fd8d3-2e58-4b5c-962d-016058a60c35">
 </a>
 
 <a href="kaiogui614789012345@gmail.com">
-<img align="center"  height="45" width="45" src="https://github.com/user-attachments/assets/8259f29a-49dd-48f2-a6f9-ea73b25baa69">
+<img align="right"  height="45" width="45" src="https://github.com/user-attachments/assets/b5b71313-db0e-41e6-a7fa-37ea9264d9ba">
 </a>
 
 </div>
