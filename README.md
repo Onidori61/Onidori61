@@ -21,7 +21,7 @@
 <br>
 <br> 
 
-### Fale comigo:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=800&color=800E72&multiline=true&repeat=false&width=435&lines=Fale+comigo%3A)](https://git.io/typing-svg)
 
 <div align="left"> 
 <a href="https://x.com/Onidori61" target="_blank">
