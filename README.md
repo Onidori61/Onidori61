@@ -28,7 +28,7 @@
 <img align="center" height="45" width="45" src="https://github.com/user-attachments/assets/a48fd8d3-2e58-4b5c-962d-016058a60c35">
 </a>
 
-<a href="kaiogui614789012345@gmail.com">
+<a href="mailto:cmp.1a.kaiogui614789012345@gmail.com">
 <img align="right"  height="45" width="45" src="https://github.com/user-attachments/assets/b5b71313-db0e-41e6-a7fa-37ea9264d9ba">
 </a>
 
