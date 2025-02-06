@@ -13,7 +13,7 @@
 
 - Se você estiver aqui para ver algo avançado ou projetos profissionais, talvez este não seja o lugar, mas se quiser ver experimentos simples e em evolução, fique à vontade para explorar
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onidori61&theme=violet-dark&hide_border=true&locale=pt_BR&card_width=1000&card_height=130)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark-smoky&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=800)](https://git.io/streak-stats)
 
 
 <img width=100% src="https://github.com/user-attachments/assets/183542b0-262f-4824-94eb-f743e8be015b"/>
