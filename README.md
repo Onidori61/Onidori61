@@ -13,8 +13,7 @@
 
 - Se você estiver aqui para ver algo avançado ou projetos profissionais, talvez este não seja o lugar, mas se quiser ver experimentos simples e em evolução, fique à vontade para explorar
 
-![Onidori61's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onidori61&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onidori61&theme=buefy-dark&locale=pt_BR&card_width=800&card_height=170)](https://git.io/streak-stats)
 
 <img width=100% src="https://github.com/user-attachments/assets/183542b0-262f-4824-94eb-f743e8be015b"/>
 
